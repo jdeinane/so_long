@@ -1,13 +1,34 @@
-Minishell Project
-Welcome to the Minishell project repository! This project aims to build a simple yet functional UNIX command interpreter, similar to a minimalistic version of bash or sh. It's designed to get you familiar with system calls, processes, and the environment of a Unix-like operating system.
+# So Long
 
-Introduction
-In this project, we delve into the basics of creating a shell interface that executes commands read from the standard input. You'll learn about process creation, execution, and communication, enhancing your understanding of the operating system's workings.
+Welcome to my "So Long" game repository! This is a simple 2D game developed as part of a learning project to get hands-on experience with graphical applications in C using the MiniLibX library. In this game, you'll navigate through a map collecting items and finding your way to the exit.
 
-Objectives
-The Minishell project will solidify your skills in several areas:
+## Introduction
 
-Process creation and synchronization
-Environment management
-Proper error handling and signal processing
-Parsing and interpreting a simple command
+"So Long" is a small 2D game where the goal is to collect all items on the map and escape. This is 42's common-core first graphic project designed to introduce us to basic game development concepts, including window management, event handling, texture, and sprite management.
+
+## Installation
+
+To run to program (only on linux), follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/jdeinane/so_long.git
+    ```
+
+2. Navigate to the cloned repository:
+
+    ```bash
+    cd so_long
+    ```
+
+3. Compile the game using Makefile:
+
+    ```bash
+    make
+    ```
+4. Usage:
+   ```bash
+    ./so_long maps/[AnyExistingMapName].ber
+    ```
+   
