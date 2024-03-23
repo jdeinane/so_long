@@ -5,6 +5,7 @@ Welcome to my "So Long" game repository! This is a simple 2D game developed as p
 ## Introduction
 
 "So Long" is a small 2D game where the goal is to collect all items on the map and escape. This is 42's common-core first graphic project designed to introduce us to basic game development concepts, including window management, event handling, texture, and sprite management.
+
 ![jubaldo's so_long](https://image.noelshack.com/fichiers/2024/12/6/1711206043-screenshot-from-2024-03-23-15-48-28.png)
 
 ## Installation
